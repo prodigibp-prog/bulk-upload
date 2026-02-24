@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/upload-bulk", "destination": "/api/upload-bulk" },
+    { "source": "/health", "destination": "/api/health" }
+  ]
+}
