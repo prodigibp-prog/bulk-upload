@@ -1,12 +1,6 @@
 {
-    "name": "simteg-proxy",
-    "version": "1.0.0",
-    "description": "SIMTEG API Proxy Server",
-    "main": "proxy.js",
-    "scripts": {
-        "start": "node proxy.js"
-    },
-    "engines": {
-        "node": ">=18"
-    }
+  "name": "simteg-proxy",
+  "version": "1.0.0",
+  "scripts": { "start": "node proxy.js" },
+  "engines": { "node": ">=18" }
 }
